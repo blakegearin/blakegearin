@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   <br>
   <br>
   I graduated from
-  <a href="https://www.truman.edu/" target="_blank">Truman State University</a>
+  <a href="https://www.truman.edu/">Truman State University</a>
   with degrees in Computer Science and Business Administration. Now I work at Cerner as a software engineer on the
-  <a href="https://www.cerner.com/solutions/population-health-management" target="_blank">Population Health Management</a>
+  <a href="https://www.cerner.com/solutions/population-health-management">Population Health Management</a>
   platform.
   <br>
   <br>
