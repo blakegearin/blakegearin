@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Blake Gearin</h3>
-
 <h4 align="center">Pronouns: he/him</h4>
-
-<h4 align="center">Stay positive, Stay passionate ~</h4>
+<h4 align="center">~ Stay positive, Stay passionate ~</h4>
 
 <p align="center">
   Hi, my name's Blake. I'm interested in technology, business, and graphic design because I think they're crucial for creating valuable products, services, and systems.
