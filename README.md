@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   I'm eager to make the world more connected and better understood.
   <br>
   <br>
-  <a href="http://blakeg.tech/">Website</a>  |  <a href="https://www.linkedin.com/in/blake-gearin">LinkedIn</a>  |  <a href="mailto:bl@kegear.in">Email</a>
+  <a href="http://blakegear.in">Website</a>  |  <a href="https://www.linkedin.com/in/blake-gearin">LinkedIn</a>  |  <a href="mailto:bl@kegear.in">Email</a>
 </p>
