@@ -10,7 +10,7 @@
   <br>
   I graduated from
   <a href="https://www.truman.edu/">Truman State University</a>
-  with degrees in Computer Science and Business Administration. Now I work at Cerner as an associate senior software engineer on the
+  with degrees in Computer Science and Business Administration. Now I work at Cerner as a software engineer on the
   <a href="https://www.cerner.com/solutions/population-health-management">Population Health Management</a>
   platform.
   <br>
