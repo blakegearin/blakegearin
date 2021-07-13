@@ -9,8 +9,8 @@
   <br>
   <br>
   I graduated from
-  <a href="https://www.truman.edu/">Truman State University</a>
-  with degrees in Computer Science and Business Administration. Now I work at Airship as a software engineer.
+  <a href="https://www.truman.edu">Truman State University</a>
+  with degrees in Computer Science and Business Administration. Now I work at <a href="https://teamairship.com">Airship<a/> as a software engineer.
   <br>
   <br>
   I'm eager to make the world more connected and better understood.
